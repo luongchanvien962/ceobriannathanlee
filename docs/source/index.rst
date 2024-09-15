@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Brian Nathanlee is the Chief Executive Officer of Sportinfo Sports Media Joint Stock Company
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Brian Nathanlee <https://sportinfo.vip/author-ceo-brian-nathanlee/>`_ is the Chief Executive Officer of Sportinfo Sports Media Joint Stock Company. With over two decades of experience in journalism and sports media, Mr. Nathanlee is a distinguished expert and football analyst, renowned for his extensive knowledge and profound insight into the sports industry.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Head Office: The Townhouse, The Broadway, London W5 5JN, United Kingdom
 
-.. note::
+Email: sportinfo@information.com
 
-   This project is under active development.
+Hotline: +44 345 080 855
 
-Contents
---------
+Website: https://sportinfo.vip/author-ceo-brian-nathanlee/ 
 
-.. toctree::
-
-   usage
-   api
+#sportingnews #footballnews #sportinfor #soccernews #sportstoday
